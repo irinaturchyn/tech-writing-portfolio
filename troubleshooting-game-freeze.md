@@ -21,6 +21,7 @@ This guide describes common causes of game freezing issues and steps to investig
 ## Resolution
 - Restart the affected game session if applicable.
 - Escalate to the game server team with a clear summary, description, Jira task, logs, timestamps, screenshots/video, and other relevant information. 
-## Notes
 If the issue persists across multiple games, initiate an incident according to the internal escalation procedure.
 
+## Notes
+> This document is a fictional example created for portfolio purposes only. It does not represent any real system, platform, or configuration.
