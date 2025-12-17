@@ -5,7 +5,7 @@ Technical writing samples - gambling platforms
 This repository contains sample technical documentation created for portfolio purposes.
 
 ## About Me
-I am a Technical Writer / Documentation Specialist with experience in gambling platforms, payment systems, and internal technical documentation.
+I am a Documentation Specialist with experience in gambling industry, payment systems, and internal technical documentation.
 
 ## Contents
 - Troubleshooting Guides
