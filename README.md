@@ -1,6 +1,6 @@
 # tech-writing-portfolio
 Technical writing samples - gambling platforms
-# Technical Writing Portfolio – Gambling Platforms
+# Technical Writing Portfolio 
 
 This repository contains sample technical documentation created for portfolio purposes.
 
