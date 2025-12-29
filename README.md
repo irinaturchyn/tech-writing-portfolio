@@ -1,15 +1,12 @@
-# tech-writing-portfolio
-Technical writing samples - gambling platforms
-# Technical Writing Portfolio 
+# :wave: Greetings
+Hey there,
+My name is Ira - it's nice to meet you!
 
-This repository contains sample technical documentation created for portfolio purposes.
+## :eyes: About Me
+I'm interested in documentation, data analysis, and improving processes by helping people use tools more effectively.
 
-## About Me
-I am a Documentation Specialist with experience in gambling industry, payment systems, and internal technical documentation.
+## :seedling: Learning
+I love learning new things and am currently focused on building my data analytics skill set with a focus on SQL and designing clear, meaningful data visualisations in Tableau.
 
-## Contents
-- Troubleshooting Guides
-- How-to Guides
-- Platform Overview Documentation
-
-> Note: All documents are fictional examples based on real-world experience. No proprietary or confidential information is included.
+## Contact Me
+:mailbox:https://www.linkedin.com/in/irinatn/ 
