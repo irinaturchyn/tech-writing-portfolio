@@ -28,3 +28,5 @@ SAQ A-EP      | Yes               | E-commerce systems can impact the security o
 SAQ D         | Yes               | Systems store, process, or transmit cardholder data and are in full PCI DSS scope.|
 SAQ B-IP      | Yes               | IP-connected payment terminals are internet-facing and require vulnerability scanning.|
 SAQ C-VT      | No                | Payments are entered manually via a browser-based virtual terminal with no system storage of card data.|
+
+> This document is a fictional example created for portfolio purposes only. It does not represent any real system, platform, or configuration.
