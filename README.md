@@ -1,6 +1,6 @@
 # :wave: Greetings
 Hey there,
-My name is Ira - it's nice to meet you!
+my name is Ira - it's nice to meet you!
 
 ## :eyes: About Me
 I'm interested in documentation, data analysis, and improving processes by helping people use tools more effectively.
