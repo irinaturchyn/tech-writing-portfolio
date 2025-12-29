@@ -1,6 +1,6 @@
 # How to Change RTP (Return to Player)
 
-## Audience
+## Who this article is for
 This guide is intended for Platform Administrators, Game Operations teams, and Technical Support teams responsible for game configuration.
 
 ## Overview
@@ -15,7 +15,7 @@ Before changing RTP, ensure that:
 - The game provider supports multiple RTP configurations
 - No active incidents or game outages are in progress
 
-## Steps to Change RTP
+## Step-by-step instructions
 1. Log in to the **Back Office** system.
 2. Navigate to **Games Management** → **Game Configuration**.
 3. Select the required **Game Provider**.
@@ -28,7 +28,7 @@ Before changing RTP, ensure that:
 
 ## Verification
 After updating the RTP:
-- Refresh the game configuration cache if required.
+- Refresh the game configuration cache.
 - Launch the game in a test environment.
 - Confirm that the correct RTP value is displayed in the game settings or logs.
 
