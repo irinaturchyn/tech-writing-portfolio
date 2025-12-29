@@ -14,5 +14,5 @@ https://www.linkedin.com/in/irinatn/
 ## What you'll find in my portfolio
 - How-to articles
 - Troubleshooting guides
-- System documentation
-- etc
+- System documentation, etc.
+> My portfolio covers topics related to payments/shared services and game development. 
