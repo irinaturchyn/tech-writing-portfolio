@@ -1,5 +1,6 @@
 ## Description
-Targeted technical writing sample explaining selected PCI DSS SAQ requirements that customers often struggle to understand. Focuses on clarification, common misconceptions, and practical guidance rather than full standard coverage.
+This sample document does not aim to summarise the full PCI DSS SAQ. It focuses on specific sections that customers most frequently find difficult to understand,
+providing clarification, context, and practical explanations. 
 
 ## What is PCI DSS SAQ?
 **PCI DSS SAQ** stands for Payment Card Industry Data Security Standard (Self-Assessment Questionnaire) - a set of security requirements designed to help organizations protect cardholder data. It is a self-assessment tool used by businesses that process, store, or transmit payment card information.
